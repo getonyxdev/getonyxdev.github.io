@@ -1,5 +1,11 @@
 {
+  "Income": [
+    "Salary",
+    "Bonus",
+    "Side Hustle"
+  ],
   "Expenditure": [
+    "Bills",
     "Groceries",
     "Eating Out",
     "Entertainment",
@@ -31,7 +37,28 @@
     "Car Insurance",
     "Home Phone"
   ],
-  "Goals": [
+  "Savings & Assets": [
+    "Savings",
+    "Investments",
+    "Pension",
+    "ISA",
+    "Shares",
+    "Bonds",
+    "Property",
+    "Car",
+    "Jewellery",
+    "Art",
+    "Other"
+  ],
+  "Debt": [
+    "Mortgage",
+    "Credit Card",
+    "Loan",
+    "Overdraft",
+    "Student Loan",
+    "Other"
+  ],
+  "Goals/Milestones": [
     "Holiday",
     "New Car",
     "New House",
