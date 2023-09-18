@@ -13,12 +13,12 @@
         },
         {
             "name": "Savings & Assets",
-            "type": "Interest",
+            "type": "Savings",
             "subItems": []
         },
         {
             "name": "Debt",
-            "type": "Interest",
+            "type": "Debt",
             "subItems": []
         },
         {
